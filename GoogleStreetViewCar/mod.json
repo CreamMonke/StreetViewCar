@@ -1,0 +1,21 @@
+{
+  "Name": "Street View Car Mod (1.26)",
+  "Author": "Ass Monke",
+  "Description": "Street View Car.",
+  "ModVersion": "1.0",
+  "GameVersion": "1.26",
+  "ThumbnailPath": "thumb.jpg",
+  "EntryPoint": "Mod.Mod",
+  "Tags": [
+    "Fun",
+    "Car",
+    "Vehicle",
+    "Mod"
+  ],
+  "Scripts": [
+    "script.cs"
+  ],
+  "Active": false,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": "2924494464"
+}
